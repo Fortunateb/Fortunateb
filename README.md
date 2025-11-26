@@ -1,6 +1,6 @@
 # 👋 Hi there, this is Fortunate 
 
-I am a SAS Platform Administrator and Data Analyst with growing experience in AI, Python, and Machine Learning.  
+I am a Product Engineer specializing in SAS and Data Analyst with growing experience in AI, Python, and Machine Learning.  
 
 
 ---
