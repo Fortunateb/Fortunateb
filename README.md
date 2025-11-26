@@ -1,5 +1,5 @@
 
-## 🧠 SAS Platform Expertise
+##  SAS Platform Expertise
 
 ### **SAS 9.4 Administration**
 - Installation, configuration, and maintenance of multi-tier SAS 9.4 environments  
