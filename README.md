@@ -1,41 +1,68 @@
+# 👋 Hi there, this is Fortunate 
 
-##  SAS Platform Expertise
+I am a SAS Platform Administrator and Data Analyst with growing experience in AI, Python, and Machine Learning.  
 
-### **SAS 9.4 Administration**
-- Installation, configuration, and maintenance of multi-tier SAS 9.4 environments  
-- Managing Object Spawner, Metadata Server, Workspace Server, Stored Process Server  
-- Metadata security, access controls, and user provisioning  
-- Backup & restore of metadata repositories  
-- Scheduled maintenance, platform patching, and hotfix application  
-- SAS Grid Manager / LSF job monitoring  
-- Log management and performance tuning  
-- Troubleshooting server startup issues and failed services  
 
-### **SAS Viya Administration**
-- Managing Viya services (systemd / Kubernetes)  
-- Monitoring CAS servers: nodes, workers, memory usage, performance  
-- Viya security and authorization model (identities, groups, rules)  
-- Using SAS CLI for automation (identities, jobs, reports)  
-- Content promotion (CLI, Transfer Service, REST APIs)  
-- Supporting developers using SAS Studio, Model Studio, and Data Explorer  
-- Troubleshooting CAS performance and server instability  
-- Viya logging and event monitoring  
+---
 
-### **SAS Viya REST APIs**
-- Job Execution API  
-- CAS Actions via REST  
-- Identity and authorization APIs  
-- Monitoring and service health automation  
-- Python + REST scripts for admin automation  
+## What I Do
+- **SAS Platform Administration** (SAS 9.4 & SAS Viya)
+- **Data Analysis & Reporting**
+- **Machine Learning & AI Projects**
+- **Python Automation & Scripting**
+- **Power BI & Visualization**
+- **SQL & Database Querying**
 
-### **SAS Programming for Administration**
-- PROC METADATA for metadata extraction  
-- PROC HTTP for REST API calls  
-- Automated log scanning utilities  
-- SAS programs for documentation and auditing  
+---
 
-### **SAS Security & Governance**
-- Implementing LDAP / Active Directory integration  
-- Roles, capabilities, and access controls  
-- Monitoring user activity and audit logging  
-- Compliance support for regulated industries (banking)  
+## SAS Expertise
+- SAS 9.4 & Viya Administration  
+- CAS Monitoring & Performance  
+- Metadata Management  
+- SAS Grid / LSF Job Monitoring  
+- Log Automation & Health Checks  
+- SAS REST API Automation (Python, Bash)
+- SAS Programming for automation & analysis  
+
+---
+
+## 📊 Data Analysis Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (joins, window functions, cleaning)
+- Power BI (dashboards, DAX, modelling)
+- Excel (pivot tables, formulas, analytics)
+- Data cleaning & transformation
+- Exploratory data analysis
+
+---
+
+##  AI & Machine Learning Skills
+- Machine Learning with Python (Scikit-Learn)
+- Classification & Regression models
+- Forecasting & Predictions
+- Feature engineering
+- Model evaluation & tuning
+- Working with AI APIs (ChatGPT, Azure AI)
+
+---
+
+##  Tools & Technologies
+- Linux (RHEL)
+- Shell scripting (Bash)
+- Git & GitHub
+- REST APIs / JSON
+- Grafana & Prometheus
+- Docker (beginner)
+- Jupyter Notebooks
+
+---
+
+##  Projects I’m Working On
+- **SAS Admin Toolkit** – automation scripts for SAS 9.4 & Viya  
+- **Monitoring Toolkit** – CAS + service health scripts  
+- **Python Data Analysis Portfolio**  
+- **AI / Machine Learning Examples**  
+- **Power BI Dashboards**
+
+---
+
